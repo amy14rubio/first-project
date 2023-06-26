@@ -107,7 +107,7 @@ struct ContentView: View {
             .frame(height: 800)
             
             
-            //changes the opacity of viewed card
+            //changes opacity of viewed card
             Button("\n\n\n\n\n                                              \n\n\n\n\n\n\n\n\n\n\n\n\n") {
 
                 withAnimation(.easeInOut(duration: 1)) {
